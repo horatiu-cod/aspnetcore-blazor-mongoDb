@@ -1,4 +1,4 @@
-# TechSupport
+# Technical Advisor
 
 Technical Supprt online App
 Based on Blazor Server, Azure Active Directory B2C, MongoDB and Bootstrap 5
